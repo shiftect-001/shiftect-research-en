@@ -3098,3 +3098,14 @@ Shift creation, schedule creation, and timetable creation all face post-creation
 This difference belongs to input configuration, search targets, fixed targets, state information, and feasibility checking in shiftect.
 
 AI creation should be evaluated not by table output, but by whether it can handle regeneration after changes under constraints.
+
+## Related repositories
+
+- [shiftect-research](https://github.com/shiftect-001/shiftect-research)  
+  Japanese research repository for shiftect.
+
+- [shiftect-for-educa-research](https://github.com/shiftect-001/shiftect-for-educa-research)  
+  Japanese research repository for shiftect. for EDUCA.
+
+- [shiftect-for-educa-research-en](https://github.com/shiftect-001/shiftect-for-educa-research-en)  
+  English research repository for shiftect. for EDUCA.
