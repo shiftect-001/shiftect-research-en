@@ -3,6 +3,7 @@
 English research repository for shiftect., a constraint-based scheduling engine for schedule generation, partial regeneration, input configuration, search targets, fixed targets, and feasibility checking.
 
 shiftect. is a constraint-based scheduling engine.
+
 The core scheduling technology described in this repository is protected by [**Japanese Patent No. 7,926,298**](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2026-026989/10/ja).
 
 This repository defines schedule generation, schedule regeneration, partial regeneration, input configuration, search targets, fixed targets, state information, constraint conditions, and feasibility checking.
